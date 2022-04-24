@@ -1,3 +1,5 @@
+# MacOS
+
 message(STATUS "Setting Configuration for Apple System.")
 
 # set(Qt5_DIR /usr/local/Cellar/qt@5/5.15.3/lib/cmake/Qt5)
